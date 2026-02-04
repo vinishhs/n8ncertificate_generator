@@ -68,6 +68,9 @@ Example data:
 - Body: **Payment details**
 
 ---
+![mail](mail.png)
+
+---
 
 
 ## 🛠️ **Tech Stack**
