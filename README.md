@@ -69,18 +69,6 @@ Example data:
 
 ---
 
-## 📊 **Data Flow Diagram**
-
-Google Sheet Data
-↓
-PDF Template Generation
-↓
-Invoice PDF
-↓
-Email to Customer
-
-
----
 
 ## 🛠️ **Tech Stack**
 
