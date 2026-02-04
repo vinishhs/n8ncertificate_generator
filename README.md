@@ -64,3 +64,4 @@ PDFMonkey	PDF invoice generation
 Gmail API	Email sending
 Workflow Automation - n8n
 
+![WORKFLOW](automation.png)
